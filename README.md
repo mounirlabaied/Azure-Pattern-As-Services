@@ -2,6 +2,7 @@
 Web service to deploy using azure api magenement architecture pattern in a secure way 
 
 ## Azure Function 
+Call Http method to deploy direct based on your spn
 
 ## Azure Security Alert 
 Send Subscription ID and get an ARM template ready to use depending of your service 
