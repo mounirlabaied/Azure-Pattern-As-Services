@@ -9,7 +9,7 @@ namespace trymgmt
     public class RemoteDesktop : CustomerFeature
     {
         public string Name { get; set; } = "Remote Desktop";
-        public string RDSFarmName { get; set; } = "CoE_NorthEurope_Farm";
+        public string RDSFarmName { get; set; } = "NorthEurope_Farm";
         public DateTime Date { get; set; } = DateTime.Parse("21/03/1988");
         public RemoteDesktop()
         {
